@@ -8,6 +8,8 @@ This repository contains the answers to the HackerRank contests conducted under 
 2. [Session 02 - HackerRank Contest](https://www.hackerrank.com/competitive-programming-challenge-2024-session-02)
 3. [Session 03 - HackerRank Contest](https://www.hackerrank.com/competitive-programming-challenge-2024-session-03)
 4. [Session 04 - HackerRank Contest](https://www.hackerrank.com/competitive-programming-challenge-2024-session-04)
+5. [Session 05 - HackerRank Contest](https://www.hackerrank.com/competitive-programming-challenge-2024-session-05)
+
 
 ## How to contribute
 
