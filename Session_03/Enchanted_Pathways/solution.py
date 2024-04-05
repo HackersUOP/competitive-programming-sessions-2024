@@ -1,9 +1,9 @@
-m,n = [int(i) for i in input().split()]
+m, n = map(int, input().split())
 c= int(input())
 
 cursed = []
 for _ in range(c):
-    x,y = [int(i) for i in input().split()]
+    x,y = map(int, input().split())
     cursed.append((x,y))
 
 dp = [[0 for _ in range(n)] for _ in range(m)]

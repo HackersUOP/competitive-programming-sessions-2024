@@ -1,12 +1,12 @@
 # Input: Number of students (N) and number of classes (K)
-n, k = list(map(int, input().strip().split()))
+n, k = map(int, input().split())
 
 # Initialize array to store students' ranks and classes
 student_data = [None] * n
 
 # Input: Student ranks and classes
 for _ in range(n):
-    class_num, rank = list(map(int, input().strip().split()))
+    class_num, rank = map(int, input().split())
     # Store students' classes in an array based on their rank
     student_data[rank - 1] = class_num
 
